@@ -1,0 +1,17 @@
+Di, 18.02.2020	HTML
+Di, 25.02.2020	CSS
+Di, 03.03.2020	Grails, Web, MVC
+Di, 10.03.2020	GSP, Template, Taglib, Layout
+Di, 17.03.2020	Javascript
+Di, 24.03.2020	Consolidation training, Testing
+Di, 31.04.2020	Persistence, DB-Access (GORM)
+Di, 07.04.2020	REST, Services
+Frei
+Di, 21.04.2020	Role-based Security
+Di, 28.04.2020	Übungsvorbereitung ** Anwesenheitspflicht **
+Frei
+Di, 12.05.2020	Übungsanlass
+Di, 19.05.2020	Responsive / Mobile Web
+Di, 26.05.2020	Pfingstvorlesung, ** Übungsabgabe **
+Di, 02.06.2020	Deployment (AWS Guest Lecture) ** Anwesenheitspflicht **
+Di, 09.06.2020	Prüfungsvorbereitung
