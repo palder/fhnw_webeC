@@ -1,0 +1,22 @@
+@import "common.css";
+
+/* Flex-based layout */
+
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+#center {
+    display: flex;
+    flex-direction: row;
+}
+
+nav {
+    order: -1;
+}
+
+nav, aside , main{
+    padding: 0 10px;
+}
